@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b252b1f6adc865f40b2f636693efb908, type: 3}
+  m_Name: SceneTheme
+  m_EditorClassIdentifier: 
+  mainTheme: {fileID: 11400000, guid: 5f6632cef9af6c140a58c3245b388bf5, type: 2}
+  themes:
+  - {fileID: 11400000, guid: 7272bc222f9867d4398dd04f295ec2d6, type: 2}
+  - {fileID: 11400000, guid: b2405824aba6c2d4982885019110abce, type: 2}
+  - {fileID: 11400000, guid: 6a38c0c174e9596449a67c3ba2598f46, type: 2}
+  - {fileID: 11400000, guid: 5f6632cef9af6c140a58c3245b388bf5, type: 2}
+  - {fileID: 11400000, guid: 1ab5434baaf1ba94c8680da158869b18, type: 2}

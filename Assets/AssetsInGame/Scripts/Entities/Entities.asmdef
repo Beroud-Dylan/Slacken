@@ -1,0 +1,19 @@
+{
+    "name": "Entities",
+    "rootNamespace": "Slacken.Entities",
+    "references": [
+        "GUID:721cc7cd87e9a944e91846ad03e4b441",
+        "GUID:a7e1814f9804a8e4c8252dce2dc730dc",
+        "GUID:85ded0a5042f1274ea0ad8cd65add7d7",
+        "GUID:619bdfc0d54b0684782155ab279ae82e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

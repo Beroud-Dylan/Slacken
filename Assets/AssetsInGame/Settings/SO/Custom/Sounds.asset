@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f56461542cc0146a7f51f4d0125133, type: 3}
+  m_Name: Sounds
+  m_EditorClassIdentifier: 
+  musics:
+  - {fileID: 8300000, guid: 10828b5f219a8ad49b44e58f55af8c02, type: 3}
+  clips:
+  - {fileID: 8300000, guid: 7da75826faa453f47ac235107a9b19d4, type: 3}
+  - {fileID: 8300000, guid: 63a7ca2cedcc9a5499ef788a2cf8c24b, type: 3}
+  - {fileID: 8300000, guid: 9b79af2b52c4e804d9de0d4f4f1649c4, type: 3}
+  - {fileID: 8300000, guid: 94afb1836584e64479d8f66e368efbba, type: 3}
+  - {fileID: 8300000, guid: 5ca3ff1fca16d6b46bec8440b29ff1d2, type: 3}
+  - {fileID: 8300000, guid: 892bce045053c0947977173263e96b6b, type: 3}
+  - {fileID: 8300000, guid: 67ce3a39196016748857c03e4cf0054e, type: 3}
+  - {fileID: 8300000, guid: 66ae1be2465196b4d93fe3552bd4761d, type: 3}
+  - {fileID: 8300000, guid: a6e2b70eafbaed449bafdeb17a40e1d8, type: 3}
