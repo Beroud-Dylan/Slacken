@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86e069519c12f8741a67a16b5e5a1cd3, type: 3}
+  m_Name: OceanTheme
+  m_EditorClassIdentifier: 
+  backgroundColor: {r: 0.008971129, g: 0.5693059, b: 0.6792453, a: 1}
+  wallColor: {r: 0, g: 0.42061728, b: 0.7169812, a: 1}
+  obstacleColor: {r: 0.028141629, g: 0.6543797, b: 0.8773585, a: 1}
+  playerTheme:
+    mainBodyColor: {r: 0.18779244, g: 0.0032751223, b: 0.8679245, a: 1}
+    shooterColor: {r: 0.10988275, g: 0.028195057, b: 0.6792453, a: 1}
+    bulletColor: {r: 0.111463115, g: 0.23421998, b: 0.9528302, a: 1}
+  enemyTheme:
+    mainBodyColor: {r: 0.13907331, g: 0.8773585, b: 0.061249524, a: 1}
+    shooterColor: {r: 0.07799788, g: 0.754717, b: 0.009967921, a: 1}
+    bulletColor: {r: 0.27801704, g: 0.9811321, b: 0.20733352, a: 1}
+  fastEnemyTheme:
+    mainBodyColor: {r: 0.9975639, g: 1, b: 0.15471691, a: 1}
+    shooterColor: {r: 0.8962264, g: 0.7959095, b: 0.13866138, a: 1}
+    bulletColor: {r: 1, g: 0.868761, b: 0.3339622, a: 1}
+  fatEnemyTheme:
+    mainBodyColor: {r: 1, g: 0.44951943, b: 0.135849, a: 1}
+    shooterColor: {r: 0.8773585, g: 0.36328354, b: 0.06952646, a: 1}
+    bulletColor: {r: 1, g: 0.610531, b: 0.2867924, a: 1}
+  spikeEnemyTheme:
+    mainBodyColor: {r: 0.645283, g: 0.8084011, b: 1, a: 1}
+    shooterColor: {r: 0.52618366, g: 0.7293383, b: 0.9716981, a: 1}
+    bulletColor: {r: 0.094357364, g: 0.7288496, b: 0.8773585, a: 1}
+  slowTimeColorEffect: {r: 0.72835255, g: 0.67358494, b: 1, a: 1}
